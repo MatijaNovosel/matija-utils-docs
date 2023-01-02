@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/36193643/206005971-aa99f0c8-01cb-4495-9ab8-dbf5309628b8.png" />
+  <img src="https://user-images.githubusercontent.com/36193643/210248459-33dfd651-2385-4072-81ca-d7327f80714e.png" />
 </div>
 
 <h1 align=center>matija-utils-docs</h1>
