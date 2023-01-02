@@ -1,15 +1,8 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
+heroImage: https://user-images.githubusercontent.com/36193643/210248459-33dfd651-2385-4072-81ca-d7327f80714e.png
 tagline: Documentation for matija-utils.
 actionText: Quick Start →
-actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+actionLink: /documentation/
 footer: Made by Matija Novosel with ❤️
 ---
