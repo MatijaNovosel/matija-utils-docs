@@ -1,5 +1,7 @@
+const { version } = require("../../package");
+
 module.exports = {
-  title: "matija-utils",
+  title: `matija-utils ${version}`,
   description: "Documentation for matija-utils.",
   head: [
     ["meta", { name: "theme-color", content: "#3eaf7c" }],

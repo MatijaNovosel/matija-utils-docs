@@ -1,6 +1,6 @@
 {
   "name": "matija-utils-docs",
-  "version": "0.0.1",
+  "version": "1.0.27",
   "description": "Documentation for matija-utils.",
   "main": "index.js",
   "engines": {
