@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Documentation for matija-utils.",
   "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
   "authors": {
     "name": "Matija Novosel",
     "email": "mnovosel5@gmail.com"
