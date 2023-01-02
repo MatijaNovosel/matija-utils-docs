@@ -4,3 +4,7 @@
 
 <h1 align=center>matija-utils-docs</h1>
 <p align=center>Documentation for <a href="https://github.com/MatijaNovosel/matija-utils">matija-utils</a>.</p>
+
+## 🔨 Built With
+
+- [VuePress](https://vuepress.vuejs.org/)
