@@ -86,7 +86,9 @@ module.exports = {
             "zip",
             "difference",
             "count",
-            "common"
+            "common",
+            "onlyTruthy",
+            "onlyFalsy"
           ].sort((a, b) => a.localeCompare(b))
         },
         {
