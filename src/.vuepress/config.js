@@ -104,7 +104,9 @@ module.exports = {
             "randomColorHex",
             "generateRandomString",
             "abbreviateNumber",
-            "randInt"
+            "randInt",
+            "div",
+            "diff"
           ].sort((a, b) => a.localeCompare(b))
         }
       ]
